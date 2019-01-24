@@ -5,7 +5,7 @@ function Dice($diceSided){
 }
 
 function nomalDiceRoller($inputStr){
-	error_log("是【一般擲骰】啦，媽ㄉ發科！");
+	error_log("是【一般擲骰】，請更正你的格式！");
 	
 //先定義要輸出的Str
 //先把這個打出來，然後在過程中一點一點把它補上去，大部分的思路是這樣的。
